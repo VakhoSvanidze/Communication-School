@@ -1,0 +1,40 @@
+body{
+  background-image: url("../src/6798923.jpg");
+  background-size: 100vw;
+}
+
+.container{
+ display: flex;
+ margin-top: 100px;
+}
+
+.character{
+  width: 90%;
+  height: 2rem;
+  background-color: rgb(27, 75, 75);
+  border-radius: 10px;
+  margin-left: 20px;
+  color: white;
+  text-align: center;
+}
+
+
+
+.results {
+  width: 60%;
+  height: 90%;
+  margin-left: 2rem;
+  padding-left: 20%;
+  border: 2px solid white;
+  border-radius: 1rem;
+  color: white;
+}
+
+.names {
+  width: 25%;
+
+}
+
+.img {
+  border-radius: 1rem;
+}
